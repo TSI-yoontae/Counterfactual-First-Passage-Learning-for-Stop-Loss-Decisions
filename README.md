@@ -2,15 +2,6 @@
 
 This repository contains the minimal reproduction code for the main empirical results reported in the paper. 
 
-The code is organized to produce only the final artifacts required for the default experimental specification:
-
-```text
-results/main_table.csv
-results/wealth_figure.pdf
-```
-
-No intermediate raw outputs, audit files, parameter dumps, or validation-only artifacts are written to disk.
-
 ## Repository Structure
 
 ```text
