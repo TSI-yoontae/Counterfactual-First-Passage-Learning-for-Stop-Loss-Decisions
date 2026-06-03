@@ -1,6 +1,6 @@
 # CFPL Main Experiment Reproduction Code
 
-This repository contains the minimal reproduction code for the main empirical results reported in the paper. The implementation reproduces the Main Table in CSV format and the corresponding wealth curve figure. Auxiliary scripts used for internal validation, robustness checks, horizon sensitivity analyses, and supplementary tables are intentionally excluded in order to provide a compact and publication-ready replication package.
+This repository contains the minimal reproduction code for the main empirical results reported in the paper. 
 
 The code is organized to produce only the final artifacts required for the default experimental specification:
 
