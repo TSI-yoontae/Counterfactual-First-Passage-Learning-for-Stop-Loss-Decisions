@@ -29,10 +29,8 @@ code/
 │   ├── metrics.py
 │   └── policies.py
 ├── script/
-│   └── run_main.sh
-└── results/
-    ├── main_table.csv
-    └── wealth_figure.pdf
+    └── run_main.sh
+
 ```
 
 The `exp/` directory contains the experiment configuration, execution logic, and reporting utilities. The `utils/` directory contains data loading, feature construction, policy evaluation, and performance metric routines. The `script/` directory provides a simple shell entry point for running the full experiment.
