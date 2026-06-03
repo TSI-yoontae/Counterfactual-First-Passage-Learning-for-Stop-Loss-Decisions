@@ -40,7 +40,7 @@ US_SP500_daily.parquet
 By default, the code expects these files to be located in:
 
 ```text
-/mnt/data
+/data
 ```
 
 A different data directory can be supplied with the `--data-dir` argument.
